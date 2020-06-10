@@ -21,6 +21,9 @@ This repository (FakeHealth) is collected to address challenges in Fake Health N
  Details could be found [here](./FakeHealth/README.md).
 
 # Our Related Papers
+* [DETERRENT: Knowledge Guided Graph Attention Network for Detecting Healthcare Misinformation](./papers/DETERRENT_KDD20.pdf)<br>
+Limeng Cui, Haeseung Seo, Maryam Tabar, Fenglong Ma, Suhang Wang, and Dongwon Lee <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-20)
 * [Ginger Cannot Cure Cancer: Battling Fake Health News with A Comprehensive Data Repository](./papers/7350-Article%20Text-10580-1-10-20200601.pdf) <br>
 Enyan Dai, Yiwei Sun, and Suhang Wang <br>
 In: Proceedings of the Internatioal AAAI Conference on Web and Social Media (ICWSM-20)
